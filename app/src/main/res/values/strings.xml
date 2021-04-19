@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">猜數字</string>
+    <string name="max">請輸入最大值</string>
+    <string name="mix">請輸入最小值</string>
+    <string name="guessnum">請輸入您猜的數字</string>
+    <string name="start1">開始</string>
+    <string name="start2">輸入</string>
+    <string name="first_continue">繼續</string>
+    <string name="big">大了</string>
+    <string name="small">小了</string>
+    <string name="win">猜到了</string>
+    <string name="guess_asing">再猜一次</string>
+    <string name="again">再玩一次</string>
+    <string name="exit">忍痛離開</string>
+    <string name="guesshis">目前猜過的數字</string>
+</resources>

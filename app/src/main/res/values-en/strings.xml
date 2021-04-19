@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">guess</string>
+    <string name="max">Enter max range</string>
+    <string name="mix">Enter min irange</string>
+    <string name="guessnum">please Enter your guess</string>
+    <string name="start1">start</string>
+    <string name="start2">Enter</string>
+    <string name="first_continue">continue</string>
+    <string name="big">large</string>
+    <string name="small">small</string>
+    <string name="win">you win</string>
+    <string name="guess_asing">guess again</string>
+    <string name="again">play again</string>
+    <string name="exit">exit</string>
+    <string name="guesshis">you have guess:</string>
+</resources>
